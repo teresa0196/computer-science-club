@@ -24,3 +24,7 @@ CSC will follow a democratic governance system. Club offices will be assigned on
 1. David Lee
 1. John Olinda
 1. Kevin Yang
+
+## Rules
+
+1. Members must attend three out of four weekly meetings per month or four out of five weekly meetings in a five-week month.
