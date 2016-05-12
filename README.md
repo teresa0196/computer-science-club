@@ -22,7 +22,7 @@ CSC will follow a democratic governance system. Club offices will be assigned on
 1. Paul Ijagbemi
 1. Gilbert Kim
 1. David Lee
-1. John Olinda
+1. John Olinda: johnolinda@seoulchristian.org (email) | johnolinda (Cryptocat)
 1. Kevin Yang
 
 ## Rules
