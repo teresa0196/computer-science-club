@@ -7,10 +7,10 @@ Seoul Christian School's after school Computer Science Club for graduates of the
 CSC will follow a democratic governance system. Club offices will be assigned on a rotating basis. However, the actions of the club must not violate the school's policies.
 
 ### Offices
-1. President
-2. Chief Technitian
-3. Secretary
-4. Treasurer
+1. President - David Lee
+2. Chief Technitian - Jonny Choi
+3. Secretary - Teresa Jeon
+4. Treasurer - Gilbert Kim
 
 #### Communication
 
