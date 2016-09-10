@@ -11,20 +11,18 @@ Attendance :
 * Kevin Yang
 * Teresa Jeon
 
-Absence :    Gilbert Kim (work for student council)
+Absence :   
+* Gilbert Kim (work for student council)
 
 started : 4:00 p.m.
 ended : 5:20 p.m.
 
 #### Decided Officers 
 
-• President : David Lee
-
-• Chief Technician : Jonny Choi
-
-• Secretary : Teresa Jeon
-
-• Treasurer : Gilbert Kim
+* President : David Lee
+* Chief Technician : Jonny Choi
+* Secretary : Teresa Jeon
+* Treasurer : Gilbert Kim
 
 #### Watched Video
 
