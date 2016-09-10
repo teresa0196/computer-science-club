@@ -4,17 +4,12 @@
 
 Attendance : 
 
-Alex Ahn
-
-David Lee
-
-Emmanuel Alaeze
-
-Jonny Choi
-
-Kevin Yang
-
-Teresa Jeon
+* Alex Ahn
+* David Lee
+* Emmanuel Alaeze
+* Jonny Choi
+* Kevin Yang
+* Teresa Jeon
 
 Absence :    Gilbert Kim (work for student council)
 
