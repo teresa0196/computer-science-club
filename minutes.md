@@ -2,17 +2,19 @@
 
 ### 2016/09/08
 
-Attendance : Alex Ahn
+Attendance : 
 
-             David Lee
+Alex Ahn
 
-             Emmanuel Alaeze
+David Lee
 
-             Jonny Choi
+Emmanuel Alaeze
 
-             Kevin Yang
+Jonny Choi
 
-             Teresa Jeon
+Kevin Yang
+
+Teresa Jeon
 
 Absence :    Gilbert Kim (work for student council)
 
