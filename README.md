@@ -8,7 +8,7 @@ CSC will follow a democratic governance system. Club offices will be assigned on
 
 ### Offices
 1. President
-2. Chief Technitian
+2. Chief Technician
 3. Secretary
 4. Treasurer
 
