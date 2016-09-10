@@ -17,13 +17,16 @@ ended : 5:20 p.m.
 #### Decided Officers 
 
 • President : David Lee
+
 • Chief Technician : Jonny Choi
+
 • Secretary : Teresa Jeon
+
 • Treasurer : Gilbert Kim
 
 #### Watched Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bjYhmX_OUQQ" frameborder="0" allowfullscreen></iframe>
+Real Future: What Happens When You Dare Expert Hackers To Hack You (Episode 8) (https://www.youtube.com/watch?v=bjYhmX_OUQQ)
  
              
 
