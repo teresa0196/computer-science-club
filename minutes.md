@@ -1,4 +1,4 @@
-## CSP Meeting Minutes 
+## CSC Meeting Minutes 
 
 ### 2016/09/08
 
